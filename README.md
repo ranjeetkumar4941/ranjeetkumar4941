@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjeet.
 - 👀 I’m interested in Backend development.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 Currently, I'm learning MERN stack.
 - 📫 ranjeetkumar990554@gmail.com
 
 
